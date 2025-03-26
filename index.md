@@ -4,3 +4,7 @@
 ```
 System.out.println("This is not an image.");
 ```
+
+- [ ] Turn on my GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
